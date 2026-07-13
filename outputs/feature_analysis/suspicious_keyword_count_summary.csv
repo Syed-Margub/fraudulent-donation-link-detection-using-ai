@@ -1,0 +1,4 @@
+suspicious_keyword_count,count,legit,scam,scam_rate
+0,776,352,424,0.546
+1,25,11,14,0.56
+2,3,0,3,1.0

@@ -1,0 +1,8 @@
+feature,correlation_with_scam,abs_strength
+has_https,-0.663,0.663
+url_length,0.14,0.14
+tld_length,0.138,0.138
+special_character_count,0.077,0.077
+suspicious_keyword_count,0.035,0.035
+two_letter_tld,-0.026,0.026
+num_subdomains,-0.023,0.023
