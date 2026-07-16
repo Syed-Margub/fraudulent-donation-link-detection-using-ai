@@ -1,0 +1,4 @@
+band,count,legit,scam,scam_rate
+-2 (no data),184,42,142,0.772
+-1 (no data),190,104,86,0.453
+real values,430,217,213,0.495
